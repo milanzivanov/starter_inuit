@@ -10,3 +10,6 @@
 sass --watch main.scss:main.min.css --style compressed
 
 exit 0
+
+# activation
+# type in terminal => sh watch.sh
