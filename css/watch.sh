@@ -12,4 +12,4 @@ sass --watch main.scss:main.min.css --style compressed
 exit 0
 
 # activation
-# type in terminal => sh watch.sh
+# go to css folder in project and type this in terminal => sh watch.sh
